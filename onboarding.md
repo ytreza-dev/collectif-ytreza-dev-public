@@ -16,7 +16,6 @@ Voici les étapes que tu vas suivre :
 * Découvrir l'utilisation de rolebase.io
 * Ecrire ton README personnalisé
 * Exprimer ta zone de génie
-* Partager ton calendrier
 * Partager tes réseaux sociaux
 * Rejoindre le discord
 * Trouver ton premier rôle
@@ -51,13 +50,8 @@ Voici des exemples de README :
 - https://github.com/Johjo
 
 ## Exprimer ta zone de génie
-Chaque individu a une zone de génie. Si ce n'est déjà fait, nous t'invitons à la découvrir avec tes mentors.
-
-## Partager ton calendrier 
-Afin de mieux collaborer, nous avons besoin de connaître tes indisponibilités. Avec certains outils, tu peux partager ton calendrier d'absence. Pour cela, il nous faut un partage de calendrier au format ICS, qui sera mis à disposition du collectif.
-
-Page des calendriers partagés : 
-- TODO
+Chaque individu a une zone de génie. Elle correspond à une ou plusieurs activités où tu te sens vraiment à l'aise. Faire cette activité consomme beaucoup d'énergie aux autres, mais pas à toi. Tu navigues facilement dans cette zone. C'est une de tes forces. Elle te distinguent des autres personnes.
+Si ce n'est déjà fait, nous t'invitons à la découvrir avec tes mentors. Et si tu ne la trouve pas aujourd'hui, tu la trouveras plus tard
 
 ## Partager tes réseaux sociaux
 Afin de mieux interagir avec toi, tu peux nous partager tes réseaux sociaux si tu le souhaites.
