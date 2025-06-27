@@ -18,7 +18,7 @@ Voici les étapes que tu vas suivre :
 * Exprimer ta zone de génie
 * Partager tes réseaux sociaux
 * Rejoindre le discord
-* Trouver ton premier rôle
+* Rejoindre ton premier cercle et participer à la vie du collectif
 * Faire un feedback sur l'onboarding
 
 
@@ -65,10 +65,10 @@ Tu dois rejoidnre le discord et obtenir le rôle discord `membre du collectif`.
 
 Si tu rencontres un souci pour cela, contacte Jonathan
 
-## Trouver ton premier rôle
-C'est l'étape la plus importante et c'est elle qui te sortira du rôle de Novice. Tu dois rejoindre le premier cercle dans lequel tu pourras passer à l'action. Découvre les différents cercles avec tes mentors et choisis celui qui te convient.
+## Rejoindre ton premier cercle et participer à la vie du collectif
+C'est l'étape la plus importante et c'est elle qui te sortira du rôle de Novice. C'est en rejoignant un cercle que tu pourras découvrir le fonctionnement du collectif et commencer à avoir de l'impact sur le collectif.
+Les mentors sont là pour t'aider à découvrir les cercles, à comprendre les gens et à te présenter aux personnes qui le font vivre.
 
-Si tu ne le trouves pas, c'est peut-être l'occasion d'en créer un nouveau. Il correspondra probablement à ta zone de génie.
 
 ## Faire un feedback sur l'onboarding
 La procédure d'onboarding n'est jamais parfaite. Aide nous à l'améliorer grâce à ton feedback. 
